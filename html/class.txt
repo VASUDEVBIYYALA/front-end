@@ -1,0 +1,144 @@
+html(berners lee 1991--->1995)
+Hper text markup language
+ a letter or word or a sentence / text with in thee text ---> hypertext or hyperlink
+ scripiting or script language----> html ,css ,js
+ data in the form of tags
+ tag THe word present in angular braces
+ <Pre defind text>==>
+ 
+ 
+ types of tags
+ 1.pairing tags ===> open tag some content closing tag <tag name > content </tag>
+ 2.empty tags===>
+ 
+ 
+ create structure
+ 
+ <!DOCTYPE html>
+ <html>
+ <head>//first child
+ developer or libnking b/w pages
+ 
+ </head>
+ 
+ <body>//2nd child
+ content to display in browser
+ 
+ </body>
+ 
+ 
+ </html>
+ 
+ file====>file name
+ 
+ .html
+ .py
+ .java
+ .js
+ .css
+ 
+ 
+ ==========================================
+ 
+ headings :major role for web site
+ 
+ 
+ six types
+ h1 to h6
+ 
+ p tag for para graph
+  <br> break
+  <hr> horizontal line
+  
+  abbrivation 
+  ===========
+  <abbr>HTML</abbr>
+  
+  
+  attributes
+  ==========
+  is providing extra functionaltis for tags or element
+  every opening tag
+  <opening tag atteributesname="proprety:value"> <closing tag>
+  <h1 style="colour:red"></h1> 
+  
+  ==========================
+  formating tags
+  itilaic===i
+  bold===b
+  small===small
+  strong==
+  deleted
+  
+  
+  
+  
+  =========================================19th
+  link it is linking b/w two pages
+  
+  if you click on redirect to another pages
+  
+  anchor tag <a href="" target=_self/_blank></a>
+  
+  two attributes
+  href="#","absolute or relative"
+  target=_self :by default value
+  _parent
+  _top
+  _blank
+  
+  =========================================20th
+  image 
+  <img/>
+  attributes
+  src----- source
+  alt---- alternate
+  
+  ============================list
+  un orderd----no order
+  ul--->entire un order
+  li---> list in item
+  disk,circle,squre,none
+  orderd  type A,a,I,i
+  123,abc,ABC,lower roman,upper roman
+  discription list
+  ====================tables
+  rows,coloum,
+  tables
+  tr---->
+  th--->
+  td-->
+  collspan 
+  rowspan 
+  cellspacing 
+  row spacing
+  
+  
+  bolck level and in line 
+  block:100% occupices ,starts in new line
+  in line :it will occupy the based on the in line element
+  
+  ========================26th
+  
+  marquee
+  
+  scroll text -->depreated
+  <marquee> welcome to scroll</marquee>
+  
+  =====i frame===
+  page with in the page 
+  <iframe src="html.html"></iframe>
+  ========================forms=========27th
+  form
+  input select text submit out put 
+  
+  user name
+  
+  ============semantic and non semantic
+  
+  semantic element ==> the elements which have meaning -->both browser nd developer
+  header--->footer--->nav--->section--->artical-->main-->aside--->time--->figer-->figcaption
+  
+  non semantic==> div span
+  
+  =========================entites
